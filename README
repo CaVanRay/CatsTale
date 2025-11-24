@@ -1,41 +1,15 @@
-I need to copy my notebook notes to this file before I lose it
+#Narrative Overview
 
+This game follows the life of a kitten from birth to death across a bleak, hopeless journey defined by loss, environmental indifference, and emotional decay. After its mother dies and its siblings are swept away in a storm, the kitten begins a desperate search to find them. Each discovery reveals another sibling already dead—except for the final one, whose suicide the kitten witnesses moments too late.
+The story is structured into six acts. The first five conclude with the death of a sibling; the final act ends with the death of the main character. Themes include abandonment, the fragility of innocence, and the quiet cruelty of a world that does not care.
+---
+#Story Structure
 
-Follows a kitten from birth to death over the course of a depressing hopless life
-
-After your mother dies and your siblings get washed away, you go on a journy to find the others, but everytime you find another sibling they are already dead (except the last, who you arrive just in time to see them kill themselves)
-
-Order of story:
-
-- Birth - in a rain gutter with your mother and siblings, she will note that you "look just like your father"
-- Family
-- Tragedy - heavy rainstorm leads to a sudden flood that washes away your siblings, your mother is able to push you up through a grate at the last minute before you drown
-- Loss - after the storm passes and the water recedes, you find your mothers dead body
-- Gutter - Either Drowned or Eaten by rats - First sibling you find, It should introduce you to what kind of game this is
-- Alleys
-- Dingy kitchen? - Killed by Cook - Forgot about this one, but I guess it works
-- Park - Killed by horrible kids - I like this one, but not tied to it
-- Forest - Killed by wild animals
-- Field - Frozen to death - Definitely this one
-- Road - Hit by car - maybe, not really a fan
-- Ocean cliff - Suicide - Definitely this one
-- City
-- Rooftop
-- Reunion - Find Dad
-- Betrayal - Tossed to animal control by Dad to take his place
-- Caught
-- Pound
-- Gas Chamber
-- Escape
-- Reveal - You didnt actually escape, you died
-
-In total there will be 6 acts, first 5 end with a dead sibling, the last one ends with your death.
-
-  - Mother dies
-  - discover each sibling dead
-  - re-unite with father
-  - he sacrifices you to save himself
-  - you escape the gas chamber and find your family happy & well
-  - you realize its a hallucination & it all gets torn away
-  - You're in the void waiting, but nothing comes
-
+##Birth & Loss
+**Setting:** Raingutter / storm drain
+* The kitten is born alongside its mother and siblings.
+* The mother remarks that the kitten “looks just like your father.”
+* A violent storm causes a sudden flood that sweeps the siblings away.
+* The mother sacrifices herself to push the kitten to safety through a grate.
+* After the water recedes, the kitten returns to find the mother’s corpse.
+**Goal:** Establish emotional stakes, introduce vulnerability, and push the player into the search for the siblings.
