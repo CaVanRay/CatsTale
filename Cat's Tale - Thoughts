@@ -12,6 +12,9 @@ character sprites:
 Layers:
         Ground (places for MC to stand on/interact with)
         Background (Multiple layers to create depth & perspective)
+Interactives:
+        Environment (damage/puzzles)
+        Items (Boxes, switches, entrance/exits to areas)
 
 -------------------------------------------------------------------------------------------------------------------------- -
 1 / 3 / 26
